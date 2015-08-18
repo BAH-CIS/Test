@@ -30,3 +30,10 @@ A reverse proxy (or surrogate) is a proxy server that appears to clients to be a
 * Extranet Publishing: a reverse proxy server facing the Internet can be used to communicate to a firewall server internal to an organization, providing extranet access to some functions while keeping the servers behind the firewalls. If used in this way, security measures should be considered to protect the rest of your infrastructure in case this server is compromised, as its web application is exposed to attack from the Internet.
 
 ![Reverse Proxy](https://raw.githubusercontent.com/BAH-CIS/Test/master/Images/ReverseProxy.PNG)
+
+
+###Setting Up a Reverse Proxy
+
+####Running Jenkins Behind Apache
+
+https://wiki.jenkins-ci.org/display/JENKINS/Running+Jenkins+behind+Apache
